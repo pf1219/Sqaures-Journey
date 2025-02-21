@@ -1,2 +1,4 @@
-# Sqaure-s-Journey
-Puzzle game made by me, with pygame.
+# Square's Journey
+
+Puzzle game made with pygame.
+Which contains 2 worlds with distinct mechanics, 30 stages.
