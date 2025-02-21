@@ -9,6 +9,9 @@ Which contains 2 worlds with distinct mechanics, 30 stages.
 1.1 (2025.02.21) - New world with new mechanics.
 
 ## Credit
+### Font
+강원교육모두 Bold by 강원특별자치도교육청
+
 ### World 1
 Music: OcularNebula - Eurorave Delirium
 
